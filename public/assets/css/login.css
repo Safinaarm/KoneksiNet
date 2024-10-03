@@ -1,0 +1,128 @@
+/* Mengatur font dan layout utama */
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end; /* Letakkan container di sebelah kanan */
+    align-items: center;
+    background-image: url('/assets/images/bg.png'); /* Ganti dengan path gambar background */
+    background-size: cover; /* Menutupi seluruh area body */
+    background-position: center; /* Memusatkan gambar */
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Container utama untuk menampung logo dan form */
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%; /* Atur lebar untuk menempati bagian kanan */
+}
+
+/* Logo di atas form */
+.logo-container {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.logo {
+    width: 150px;
+    height: auto; /* Ukuran logo disesuaikan */
+}
+
+/* Container form login dengan latar belakang transparan dan blur */
+.container {
+    width: 100%;
+    max-width: 400px;
+    padding: 30px;
+    background: rgba(128, 0, 128, 0.193); /* Warna ungu dengan transparansi */
+    backdrop-filter: blur(15px); /* Efek blur */
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(128, 0, 128, 0.3); /* Shadow ungu */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Atur layout form login */
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+/* Judul login dengan font tebal dan besar */
+.log-in {
+    font-size: 28px;
+    color: white;
+    margin-bottom: 30px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+/* Label untuk email dan password */
+.email-label,
+.password-label {
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    align-self: flex-start;
+    margin-bottom: 8px;
+}
+
+/* Input fields */
+input[type="email"],
+input[type="password"] {
+    padding: 12px;
+    border: 1px solid #b39ddb;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.85);
+    color: #512da8;
+    font-size: 16px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+input[type="email"]::placeholder,
+input[type="password"]::placeholder {
+    color: #9575cd;
+}
+
+/* Tombol login */
+button {
+    padding: 12px;
+    background-color: #5d00ff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #5e35b1;
+}
+
+/* Tulisan "Belum punya akun?" di atas tombol */
+.belum-punya-akun {
+    margin-top: 10px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    width: 100%;
+}
+
+.belum-punya-akun a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.belum-punya-akun a:hover {
+    color: #ffffff;
+}

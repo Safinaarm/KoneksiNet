@@ -1,0 +1,448 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.home-child {
+    position: absolute;
+    top: -373px;
+    left: -405px;
+    border-radius: 50%;
+    background: linear-gradient(89.88deg, #7c52d9, #02c6be);
+    width: 2488px;
+    height: 1229px;
+}
+.image-3-icon {
+    position: absolute;
+    top: 47px;
+    left: 77px;
+    width: 124px;
+    height: 128px;
+    object-fit: cover;
+}
+.image-4-icon {
+    position: absolute;
+    top: 307px;
+    left: 726px;
+    width: 653px;
+    height: 346px;
+    object-fit: cover;
+}
+.home1 {
+    position: absolute;
+    top: 85px;
+    left: 767px;
+    font-family: 'Sans Serif Collection';
+}
+.login {
+    position: absolute;
+    top: 85px;
+    left: 839px;
+    font-family: 'Sans Serif Collection';
+}
+.register {
+    position: absolute;
+    top: 85px;
+    left: 904px;
+    font-family: 'Sans Serif Collection';
+}
+.home-item {
+    position: absolute;
+    top: 85px;
+    left: 1029px;
+    background-color: #824dda;
+    width: 147px;
+    height: 44px;
+}
+.contact-us {
+    position: absolute;
+    top: 85px;
+    left: 1062px;
+    font-family: 'Sans Serif Collection';
+}
+.where {
+    margin: 0;
+}
+.connections-spark-conversation {
+    margin: 0;
+    font-size: 40px;
+}
+.where-connections-spark-container {
+    position: absolute;
+    top: 395px;
+    left: 109px;
+    font-size: 30px;
+}
+.home-inner {
+    position: absolute;
+    top: 550px;
+    left: 118px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 24px;
+    height: 24px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 550px;
+    left: 152px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 24px;
+    height: 24px;
+}
+.home-child1 {
+    position: absolute;
+    top: 550px;
+    left: 182px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 24px;
+    height: 24px;
+}
+.image-5-icon {
+    position: absolute;
+    top: 1346px;
+    left: 55px;
+    width: 259px;
+    height: 532px;
+    object-fit: cover;
+}
+/* .image-6-icon {
+    position: absolute;
+    top: 1329px;
+    left: -84px;
+    width: 500px;
+    height: 607px;
+    object-fit: cover;
+} */
+.rectangle-div {
+    position: absolute;
+    top: 1945px;
+    left: 0px;
+    background: linear-gradient(269.76deg, #02c6be 11.45%, #824dda);
+    width: 1920px;
+    height: 578px;
+}
+.home-child2 {
+    position: absolute;
+    top: 972px;
+    left: 839px;
+    background-color: #fafafa;
+    width: 325px;
+    height: 200px;
+}
+.image-7-icon {
+    position: absolute;
+    top: 972px;
+    left: 1050px;
+    width: 219px;
+    height: 200px;
+    object-fit: cover;
+}
+.johnnyorlando {
+    position: absolute;
+    top: 1031px;
+    left: 859px;
+    font-size: 20px;
+    display: inline-block;
+    color: #000;
+    width: 149px;
+    height: 26px;
+}
+.image-8-icon {
+    position: absolute;
+    top: 997px;
+    left: 843px;
+    width: 20px;
+    height: 19px;
+    object-fit: cover;
+}
+.image-9-icon {
+    position: absolute;
+    top: 1000px;
+    left: 866px;
+    width: 18px;
+    height: 16px;
+    object-fit: cover;
+}
+.jan-2021 {
+    position: absolute;
+    top: 981px;
+    left: 843px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.6);
+    text-align: right;
+    display: inline-block;
+    width: 127px;
+    height: 16px;
+}
+.services {
+    position: absolute;
+    top: 2024px;
+    left: 59px;
+    font-size: 40px;
+    text-align: right;
+}
+.have-a-questions {
+    position: absolute;
+    top: 2024px;
+    left: 335px;
+    font-size: 40px;
+    text-align: right;
+}
+.connectly {
+    position: absolute;
+    top: 2024px;
+    left: 794px;
+    font-size: 40px;
+    text-align: right;
+}
+.hello-guys {
+    position: absolute;
+    top: 1080px;
+    left: 930px;
+    font-size: 14px;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.5);
+    width: 79px;
+    height: 17px;
+}
+.home-child3 {
+    position: absolute;
+    top: 1198px;
+    left: 839px;
+    background-color: #fafafa;
+    width: 325px;
+    height: 200px;
+}
+.image-7-icon1 {
+    position: absolute;
+    top: 1198px;
+    left: 1050px;
+    width: 219px;
+    height: 200px;
+    object-fit: cover;
+}
+.johnnyorlando1 {
+    position: absolute;
+    top: 1257px;
+    left: 859px;
+    font-size: 20px;
+    display: inline-block;
+    color: #000;
+    width: 149px;
+    height: 26px;
+}
+.image-8-icon1 {
+    position: absolute;
+    top: 1223px;
+    left: 843px;
+    width: 20px;
+    height: 19px;
+    object-fit: cover;
+}
+.image-9-icon1 {
+    position: absolute;
+    top: 1226px;
+    left: 866px;
+    width: 18px;
+    height: 16px;
+    object-fit: cover;
+}
+.jan-20211 {
+    position: absolute;
+    top: 1207px;
+    left: 843px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.6);
+    text-align: right;
+    display: inline-block;
+    width: 127px;
+    height: 16px;
+}
+.hello-guys1 {
+    position: absolute;
+    top: 1306px;
+    left: 930px;
+    font-size: 14px;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.5);
+    width: 79px;
+    height: 17px;
+}
+.home-child4 {
+    position: absolute;
+    top: 1433px;
+    left: 839px;
+    background-color: #fafafa;
+    width: 325px;
+    height: 200px;
+}
+.image-7-icon2 {
+    position: absolute;
+    top: 1433px;
+    left: 1050px;
+    width: 219px;
+    height: 200px;
+    object-fit: cover;
+}
+.johnnyorlando2 {
+    position: absolute;
+    top: 1492px;
+    left: 859px;
+    font-size: 20px;
+    display: inline-block;
+    color: #000;
+    width: 149px;
+    height: 26px;
+}
+.image-8-icon2 {
+    position: absolute;
+    top: 1458px;
+    left: 843px;
+    width: 20px;
+    height: 19px;
+    object-fit: cover;
+}
+.image-9-icon2 {
+    position: absolute;
+    top: 1461px;
+    left: 866px;
+    width: 18px;
+    height: 16px;
+    object-fit: cover;
+}
+.jan-20212 {
+    position: absolute;
+    top: 1442px;
+    left: 843px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.6);
+    text-align: right;
+    display: inline-block;
+    width: 127px;
+    height: 16px;
+}
+.hello-guys2 {
+    position: absolute;
+    top: 1541px;
+    left: 930px;
+    font-size: 14px;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.5);
+    width: 79px;
+    height: 17px;
+}
+.di-connectly-kami {
+    position: absolute;
+    top: 1100px;
+    left: 239px;
+    color: #000;
+    text-align: justify;
+    display: inline-block;
+    width: 555px;
+    height: 229px;
+}
+.platform-sosial-yang {
+    position: absolute;
+    top: 2116px;
+    left: 806px;
+    font-size: 25px;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.7);
+    text-align: justify;
+    width: 463px;
+    height: 118px;
+}
+.connect-share-and-container {
+    position: absolute;
+    top: 1677px;
+    left: 347px;
+    font-size: 27px;
+    color: #000;
+}
+.your-social-hub-container {
+    position: absolute;
+    top: 988px;
+    left: 509px;
+    font-size: 29px;
+    color: #000;
+    text-align: right;
+}
+.home-child5 {
+    position: absolute;
+    top: 2127px;
+    left: 348px;
+    border-radius: 40px;
+    background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), #fff;
+    width: 313px;
+    height: 39px;
+}
+.home-child6 {
+    position: absolute;
+    top: 2175px;
+    left: 348px;
+    border-radius: 40px;
+    background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), #fff;
+    width: 313px;
+    height: 39px;
+}
+.xxxxxxxxxxx {
+    position: absolute;
+    top: 2189px;
+    left: 386px;
+    font-size: 14px;
+    color: #000;
+    text-align: right;
+}
+.safinaadmincom {
+    position: absolute;
+    top: 2139px;
+    left: 385px;
+    font-size: 14px;
+    text-decoration: underline;
+    font-weight: 700;
+    color: #000;
+    text-align: right;
+}
+.home-child7 {
+    position: absolute;
+    top: 1757px;
+    left: 829px;
+    border-radius: 50%;
+    background-color: #824dda;
+    width: 38px;
+    height: 39px;
+}
+.home-child8 {
+    position: absolute;
+    top: 1797px;
+    left: 922px;
+    border-radius: 50%;
+    background-color: #5478d0;
+    width: 38px;
+    height: 39px;
+}
+.home-child9 {
+    position: absolute;
+    top: 1777px;
+    left: 876px;
+    border-radius: 50%;
+    background-color: #02c6be;
+    width: 38px;
+    height: 39px;
+}
+.home {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2446px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Roboto;
+}
+
